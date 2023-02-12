@@ -1,4 +1,4 @@
-# Gerenciador-de-tarefas
+# Gerenciador-De-Tarefas
 
 SGCOE é um gerenciador de tarefas programado em Linguagem C no Code::Blocks para o PIM - (PROJETO INTEGRADO MULTIDISCIPLINAR) exigido no segundo semestre pela faculdade de Análise e Desenvolvimento de Sistemas na UNIP. 
 
