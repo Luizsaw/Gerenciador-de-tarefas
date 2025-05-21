@@ -6,8 +6,7 @@
 > 🎯 **Objetivo:** facilitar a organização, o acompanhamento e o controle de tarefas e equipes de maneira prática e segura.
 
 <p align="center">
-  <img src="Prints de tela/TelaInicial.png" alt="Imagem de Demostração" width="400"/>
-  <img src="Prints de tela/TelaPerfilGerenteAtribuindoTarefa4.png" alt="Imagem de Demostração" width="400"/>
+  <img src="Prints de tela/TelaInicial.png" alt="Imagem de Demostração" width="800"/>
 </p>
 
 ---
