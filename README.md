@@ -39,10 +39,12 @@ Gera relatórios criptografados salvos em arquivos locais, protegendo dados sens
 ## 🤝 Como Contribuir
 Quer colaborar com o projeto? Fique à vontade para:
 
-### 🐛 Abrir issues com sugestões ou problemas encontrados.
+- 🐛 Abrir issues com sugestões ou problemas encontrados.
 
-### 🔀 Criar pull requests com melhorias ou novas funcionalidades.
+- 🔀 Criar pull requests com melhorias ou novas funcionalidades.
 
-### 💬 Compartilhar feedback para ajudar a evoluir o SGCOE.
+- 💬 Compartilhar feedback para ajudar a evoluir o SGCOE.
 
-#Toda contribuição é muito bem-vinda! 🙌
+# Toda contribuição é muito bem-vinda! 🙌
+
+---
