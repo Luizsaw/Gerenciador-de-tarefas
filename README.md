@@ -1,30 +1,48 @@
-# SGCOE - Sistema de Gerenciamento de Tarefas
 
-O SGCOE é um robusto gerenciador de tarefas desenvolvido em Linguagem C no Code::Blocks, projetado especificamente para atender aos requisitos do Projeto Integrado Multidisciplinar (PIM) exigido no segundo semestre do curso de Análise e Desenvolvimento de Sistemas na UNIP.
+# 🗂️ SGCOE - Sistema de Gerenciamento de Tarefas
 
-## Principais Características
+**SGCOE** é um sistema robusto de gerenciamento de tarefas desenvolvido em **linguagem C**, utilizando o **Code::Blocks**, como parte do **Projeto Integrado Multidisciplinar (PIM)** do 2º semestre do curso de Análise e Desenvolvimento de Sistemas na **UNIP**.
 
-O SGCOE oferece um conjunto abrangente de ferramentas para otimizar o gerenciamento de projetos, proporcionando uma experiência eficiente para seus usuários. Algumas das principais características incluem:
+> 🎯 **Objetivo:** facilitar a organização, o acompanhamento e o controle de tarefas e equipes de maneira prática e segura.
 
-### 1. Cadastro de Perfis de Gerência
-Os usuários podem criar perfis de gerência, proporcionando acesso exclusivo a todas as funcionalidades do sistema. Isso permite uma gestão eficaz e personalizada das tarefas e projetos.
+---
 
-### 2. Sistema de Login e Senha
-Garantindo a privacidade dos dados do usuário, o sistema utiliza um mecanismo seguro de login e senha. Isso restringe o acesso apenas a usuários autorizados, protegendo informações sensíveis.
+## ✨ Funcionalidades Principais
 
-### 3. Atribuição e Monitoramento de Tarefas
-Os gerentes têm a capacidade de atribuir tarefas de forma eficiente e monitorar o progresso de cada colaborador em sua equipe. Isso promove uma distribuição equitativa de responsabilidades e melhora a eficiência operacional.
+### 👤 Cadastro de Perfis de Gerência  
+Permite criar perfis de gerenciamento com acesso total ao sistema, garantindo uma administração personalizada e eficaz das tarefas.
 
-### 4. Cadastro de Clientes
-Facilitando a organização e o relacionamento com clientes, o sistema oferece um módulo de cadastro de clientes. Isso permite o registro e a gestão de informações relevantes para uma comunicação eficaz.
+### 🔐 Sistema de Login Seguro  
+Utiliza autenticação por login e senha, assegurando que apenas usuários autorizados tenham acesso às informações.
 
-### 5. Exportação de Relatórios Criptografados
-Para facilitar a tomada de decisões informadas, o SGCOE possibilita a exportação de relatórios criptografados. Esses relatórios contêm dados cruciais para análise e são salvos como arquivos no computador, proporcionando flexibilidade e segurança.
+### ✅ Atribuição e Monitoramento de Tarefas  
+Gerentes podem distribuir tarefas, acompanhar o progresso da equipe e garantir uma execução mais eficiente dos projetos.
 
-## Como Contribuir
+### 🧾 Cadastro de Clientes  
+Inclui um módulo específico para registrar e gerenciar dados de clientes, otimizando o relacionamento e a organização.
 
-Se você deseja contribuir para o desenvolvimento do SGCOE, sinta-se à vontade para abrir problemas, enviar solicitações de recebimento ou colaborar no código. Seu feedback é valioso para a melhoria contínua do sistema.
+### 📄 Relatórios Criptografados  
+Gera relatórios criptografados salvos em arquivos locais, protegendo dados sensíveis e oferecendo suporte à tomada de decisões.
 
-Agradecemos por escolher o SGCOE como sua solução de gerenciamento de tarefas. Esperamos que esta ferramenta seja útil para aprimorar a eficiência e a colaboração em seus projetos.
+---
 
-**Equipe Devcoast**
+## 🛠️ Como Executar
+
+1. Clone este repositório:
+   ```bash
+   git clone https://github.com/seu-usuario/sgcoe.git
+2. Abra o projeto no Code::Blocks.
+3. Compile e execute o projeto normalmente.
+
+---
+
+## 🤝 Como Contribuir
+Quer colaborar com o projeto? Fique à vontade para:
+
+### 🐛 Abrir issues com sugestões ou problemas encontrados.
+
+### 🔀 Criar pull requests com melhorias ou novas funcionalidades.
+
+### 💬 Compartilhar feedback para ajudar a evoluir o SGCOE.
+
+#Toda contribuição é muito bem-vinda! 🙌
